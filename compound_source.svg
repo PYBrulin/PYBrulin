@@ -28,7 +28,7 @@
             <image
                 href="profile-summary-card-output/transparent/1-repos-per-language.svg" />
         </g>
-        <g transform="translate(400,180)">
+        <g transform="translate(360,180)">
             <image
                 href="profile-summary-card-output/transparent/2-most-commit-language.svg" />
         </g>
@@ -36,7 +36,7 @@
             <image
                 href="profile-summary-card-output/transparent/3-stats.svg" />
         </g>
-        <g transform="translate(400,360)">
+        <g transform="translate(360,360)">
             <image
                 href="profile-summary-card-output/transparent/4-productive-time.svg" />
         </g> -->
