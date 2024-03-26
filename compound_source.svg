@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440">
+    <style>* {
+        font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
+        }</style>
+    <rect x="1" y="1" rx="5" ry="5" height="99%" width="99.71428571428571%" stroke="#000000"
+        stroke-width="1" fill="#00000000" stroke-opacity="0"></rect>
+    <!-- UL -->
+    <g transform="translate(0,0) translate(50, 50) scale(1,-1) translate(-50, -50) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+    <!-- UR -->
+    <g transform="translate(660,00) translate(50, 50) scale(-1,-1) translate(-50, -50) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+    <!-- BL -->
+    <g transform="translate(0,360) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+    <!-- BR -->
+    <g transform="translate(660,360) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+
+    <g transform="translate(20,40)">
+        <image
+            href="profile-summary-card-output/transparent/0-profile-details.svg" />
+        <g transform="translate(0,180)">
+            <image
+                href="profile-summary-card-output/transparent/1-repos-per-language.svg" />
+        </g>
+        <g transform="translate(400,180)">
+            <image
+                href="profile-summary-card-output/transparent/2-most-commit-language.svg" />
+        </g>
+        <!-- <g transform="translate(0,360)">
+            <image
+                href="profile-summary-card-output/transparent/3-stats.svg" />
+        </g>
+        <g transform="translate(400,360)">
+            <image
+                href="profile-summary-card-output/transparent/4-productive-time.svg" />
+        </g> -->
+    </g>
+</svg>
