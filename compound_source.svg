@@ -1,7 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="750" height="400" viewBox="0 0 750 400">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400">
     <style>* {
         font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
-        }</style>
+        path {
+            fill: black;
+            stroke: black;
+        }
+        line {
+            stroke: black;
+        }
+        text {
+            fill: black;
+        }
+        tick {
+            fill: black;
+        }
+        @media (prefers-color-scheme: dark) {
+            path { 
+                fill: white; 
+                stroke: white;
+            }
+            line {
+                stroke: white;
+            }
+            text {
+                fill: white;
+            }
+            tick {
+                fill: white;
+            }
+        }
+    }</style>
     <rect x="1" y="1" rx="5" ry="5" height="99%" width="99.71428571428571%" stroke="#000000"
         stroke-width="1" fill="#00000000" stroke-opacity="0"></rect>
     <!-- UL -->
@@ -9,7 +37,7 @@
         <image href="E.svg" />
     </g>
     <!-- UR -->
-    <g transform="translate(640,00) translate(50, 30) scale(-1,-1) translate(-50, -50) scale(0.4)">
+    <g transform="translate(620,00) translate(50, 30) scale(-1,-1) translate(-50, -50) scale(0.4)">
         <image href="E.svg" />
     </g>
     <!-- BL -->
@@ -17,17 +45,20 @@
         <image href="E.svg" />
     </g>
     <!-- BR -->
-    <g transform="translate(640,320) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)">
+    <g transform="translate(620,320) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)">
         <image href="E.svg" />
     </g>
 
-    <g transform="translate(20,10)">
+    <g transform="translate(10,10)">
+        <!-- 0 -->
         <image
             href="profile-summary-card-output/transparent/0-profile-details.svg" />
+        <!-- 1 -->
         <g transform="translate(0,180)">
             <image
                 href="profile-summary-card-output/transparent/1-repos-per-language.svg" />
         </g>
+        <!-- 2 -->
         <g transform="translate(360,180)">
             <image
                 href="profile-summary-card-output/transparent/2-most-commit-language.svg" />

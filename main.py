@@ -49,7 +49,21 @@ for image in images:
 output = soup.prettify()
 
 # Replace colors while we are at it
-output = output.replace("#006AFF", "#408beb")
+output = output.replace("fill: #006AFF;", "")
+output = output.replace("fill: #417E87;", "")
+output = output.replace("fill:#ffffff;", "")
+output = output.replace("#006AFF", "")
+output = output.replace("#ffffff", "")
+output = output.replace('"#000000"', '""')
+output = output.replace("#0579C3", "")
+output = output.replace("#417E87", "")
+output = output.replace('fill="currentColor"', "")
+output = output.replace('stroke="currentColor"', '')
+output = output.replace("stroke-width:2.04705", "stroke-width:1")
+output = output.replace("stroke-width: 2px", "stroke-width: 1px")
+output = output.replace('d="M0.5,6V0.5H380.5V6"', "")
+output = output.replace('d="M6,110.5H0.5V0.5H6"', "")
+
 
 with open("output.svg", "w") as f:
     f.write(output)
