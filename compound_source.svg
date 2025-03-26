@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400">
+<svg xmlns="http://www.w3.org/2000/svg" width="730" height="412" viewBox="0 0 720 400">
     <style>
     :root {
-        --custom-color: #808080; /* Default color for light mode */
+        --custom-color: #eeeeee80; /* Default color for light mode */
     }
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --custom-color: #22222280; /* Custom color for dark mode */
+        }
+    } 
 
     * {
-        font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
         path {
             fill: black;
             stroke: black;
@@ -35,46 +39,26 @@
             }
         }
     }</style>
-    <filter id="shadow">
-        <fedropshadow dx="-0.1" dy="-0.1" flood-color="var(--custom-color)" stddeviation="0">
-        </fedropshadow>
-        <fedropshadow dx="0.1" dy="-0.1" flood-color="var(--custom-color)" stddeviation="0">
-        </fedropshadow>
-        <fedropshadow dx="0.1" dy="0.1" flood-color="var(--custom-color)" stddeviation="0">
-        </fedropshadow>
-        <fedropshadow dx="-0.1" dy="0.1" flood-color="var(--custom-color)" stddeviation="0">
-        </fedropshadow>
-    </filter>
-    <rect x="1" y="1" rx="5" ry="5" height="99%" width="99.71428571428571%" stroke="#000000"
-        stroke-width="1" fill="#00000000" stroke-opacity="0"></rect>
+    <rect x="1" y="1" rx="20" ry="20" height="99%" width="99%" stroke="#000000"
+        stroke-width="1" fill="var(--custom-color)" stroke-opacity="0"></rect>
     <!-- UL -->
-    <g transform="translate(0,0) translate(50, 30) scale(1,-1) translate(-50, -50) scale(0.4)" filter="url(#shadow)">
+    <g transform="translate(5,5) translate(50, 30) scale(1,-1) translate(-50, -50) scale(0.4)">
         <image href="E.svg" />
     </g>
     <!-- UR -->
-    <g transform="translate(620,00) translate(50, 30) scale(-1,-1) translate(-50, -50) scale(0.4)" filter="url(#shadow)">
+    <g transform="translate(620,5) translate(50, 30) scale(-1,-1) translate(-50, -50) scale(0.4)">
         <image href="E.svg" />
     </g>
     <!-- BL -->
-    <g transform="translate(0,320) scale(0.4)" filter="url(#shadow)">
+    <g transform="translate(5,325) scale(0.4)">
         <image href="E.svg" />
     </g>
     <!-- BR -->
-    <g transform="translate(620,320) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)" filter="url(#shadow)">
+    <g transform="translate(620,325) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)">
         <image href="E.svg" />
     </g>
 
-    <g transform="translate(10,10)" filter="url(#shadow)">
-        <filter id="shadow">
-            <fedropshadow dx="-1" dy="-1" flood-color="var(--custom-color)" stddeviation="0">
-            </fedropshadow>
-            <fedropshadow dx="1" dy="-1" flood-color="var(--custom-color)" stddeviation="0">
-            </fedropshadow>
-            <fedropshadow dx="1" dy="1" flood-color="var(--custom-color)" stddeviation="0">
-            </fedropshadow>
-            <fedropshadow dx="-1" dy="1" flood-color="var(--custom-color)" stddeviation="0">
-            </fedropshadow>
-        </filter>
+    <g transform="translate(10,10)">
         <!-- 0 -->
         <image
             href="profile-summary-card-output/transparent/0-profile-details.svg" />

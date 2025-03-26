@@ -1,11 +1,15 @@
-<svg height="400" viewbox="0 0 720 400" width="720" xmlns="http://www.w3.org/2000/svg">
+<svg height="412" viewbox="0 0 720 400" width="730" xmlns="http://www.w3.org/2000/svg">
  <style>
   :root {
-        --custom-color: #808080; /* Default color for light mode */
+        --custom-color: #eeeeee80; /* Default color for light mode */
     }
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --custom-color: #22222280; /* Custom color for dark mode */
+        }
+    } 
 
     * {
-        font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
         path {
             fill: black;
             stroke: black;
@@ -36,20 +40,10 @@
         }
     }
  </style>
- <filter id="shadow">
-  <fedropshadow dx="-0.1" dy="-0.1" flood-color="var(--custom-color)" stddeviation="0">
-  </fedropshadow>
-  <fedropshadow dx="0.1" dy="-0.1" flood-color="var(--custom-color)" stddeviation="0">
-  </fedropshadow>
-  <fedropshadow dx="0.1" dy="0.1" flood-color="var(--custom-color)" stddeviation="0">
-  </fedropshadow>
-  <fedropshadow dx="-0.1" dy="0.1" flood-color="var(--custom-color)" stddeviation="0">
-  </fedropshadow>
- </filter>
- <rect fill="#00000000" height="99%" rx="5" ry="5" stroke="" stroke-opacity="0" stroke-width="1" width="99.71428571428571%" x="1" y="1">
+ <rect fill="var(--custom-color)" height="99%" rx="20" ry="20" stroke="" stroke-opacity="0" stroke-width="1" width="99%" x="1" y="1">
  </rect>
  <!-- UL -->
- <g filter="url(#shadow)" transform="translate(0,0) translate(50, 30) scale(1,-1) translate(-50, -50) scale(0.4)">
+ <g transform="translate(5,5) translate(50, 30) scale(1,-1) translate(-50, -50) scale(0.4)">
   <svg height="200" id="svg2" inkscape:version="1.2.2 (732a01da63, 2022-12-09)" sodipodi:docname="E.svg" version="1.1" viewbox="0 0 200 200" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
    <defs id="defs6">
     <inkscape:path-effect add_other_stroke_width="inkscape_1.0_and_up" add_stroke_width="inkscape_1.0_and_up" both="false" crossing_points_vector="" effect="knot" id="path-effect280" interruption_width="3" inverse_width="false" is_visible="true" lpeversion="1" prop_to_stroke_width="true" switcher_size="15">
@@ -64,7 +58,7 @@
   </svg>
  </g>
  <!-- UR -->
- <g filter="url(#shadow)" transform="translate(620,00) translate(50, 30) scale(-1,-1) translate(-50, -50) scale(0.4)">
+ <g transform="translate(620,5) translate(50, 30) scale(-1,-1) translate(-50, -50) scale(0.4)">
   <svg height="200" id="svg2" inkscape:version="1.2.2 (732a01da63, 2022-12-09)" sodipodi:docname="E.svg" version="1.1" viewbox="0 0 200 200" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
    <defs id="defs6">
     <inkscape:path-effect add_other_stroke_width="inkscape_1.0_and_up" add_stroke_width="inkscape_1.0_and_up" both="false" crossing_points_vector="" effect="knot" id="path-effect280" interruption_width="3" inverse_width="false" is_visible="true" lpeversion="1" prop_to_stroke_width="true" switcher_size="15">
@@ -79,7 +73,7 @@
   </svg>
  </g>
  <!-- BL -->
- <g filter="url(#shadow)" transform="translate(0,320) scale(0.4)">
+ <g transform="translate(5,325) scale(0.4)">
   <svg height="200" id="svg2" inkscape:version="1.2.2 (732a01da63, 2022-12-09)" sodipodi:docname="E.svg" version="1.1" viewbox="0 0 200 200" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
    <defs id="defs6">
     <inkscape:path-effect add_other_stroke_width="inkscape_1.0_and_up" add_stroke_width="inkscape_1.0_and_up" both="false" crossing_points_vector="" effect="knot" id="path-effect280" interruption_width="3" inverse_width="false" is_visible="true" lpeversion="1" prop_to_stroke_width="true" switcher_size="15">
@@ -94,7 +88,7 @@
   </svg>
  </g>
  <!-- BR -->
- <g filter="url(#shadow)" transform="translate(620,320) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)">
+ <g transform="translate(620,325) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)">
   <svg height="200" id="svg2" inkscape:version="1.2.2 (732a01da63, 2022-12-09)" sodipodi:docname="E.svg" version="1.1" viewbox="0 0 200 200" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
    <defs id="defs6">
     <inkscape:path-effect add_other_stroke_width="inkscape_1.0_and_up" add_stroke_width="inkscape_1.0_and_up" both="false" crossing_points_vector="" effect="knot" id="path-effect280" interruption_width="3" inverse_width="false" is_visible="true" lpeversion="1" prop_to_stroke_width="true" switcher_size="15">
@@ -108,17 +102,7 @@
    </g>
   </svg>
  </g>
- <g filter="url(#shadow)" transform="translate(10,10)">
-  <filter id="shadow">
-   <fedropshadow dx="-1" dy="-1" flood-color="var(--custom-color)" stddeviation="0">
-   </fedropshadow>
-   <fedropshadow dx="1" dy="-1" flood-color="var(--custom-color)" stddeviation="0">
-   </fedropshadow>
-   <fedropshadow dx="1" dy="1" flood-color="var(--custom-color)" stddeviation="0">
-   </fedropshadow>
-   <fedropshadow dx="-1" dy="1" flood-color="var(--custom-color)" stddeviation="0">
-   </fedropshadow>
-  </filter>
+ <g transform="translate(10,10)">
   <!-- 0 -->
   <svg height="200" viewbox="0 0 700 200" width="700" xmlns="http://www.w3.org/2000/svg">
    <style>
