@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="730" height="412" viewBox="0 0 720 400">
+    <style>
+    :root {
+        --custom-color: #eeeeee80; /* Default color for light mode */
+    }
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --custom-color: #22222280; /* Custom color for dark mode */
+        }
+    } 
+
+    * {
+        path {
+            fill: black;
+            stroke: black;
+        }
+        line {
+            stroke: black;
+        }
+        text {
+            fill: black;
+        }
+        tick {
+            fill: black;
+        }
+        @media (prefers-color-scheme: dark) {
+            path { 
+                fill: white; 
+                stroke: white;
+            }
+            line {
+                stroke: white;
+            }
+            text {
+                fill: white;
+            }
+            tick {
+                fill: white;
+            }
+        }
+    }</style>
+    <rect x="1" y="1" rx="20" ry="20" height="99%" width="99%" stroke="#000000"
+        stroke-width="1" fill="var(--custom-color)" stroke-opacity="0"></rect>
+    <!-- UL -->
+    <g transform="translate(5,5) translate(50, 30) scale(1,-1) translate(-50, -50) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+    <!-- UR -->
+    <g transform="translate(620,5) translate(50, 30) scale(-1,-1) translate(-50, -50) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+    <!-- BL -->
+    <g transform="translate(5,325) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+    <!-- BR -->
+    <g transform="translate(620,325) translate(50, 50) scale(-1,1) translate(-50, -50) scale(0.4)">
+        <image href="E.svg" />
+    </g>
+
+    <g transform="translate(10,10)">
+        <!-- 0 -->
+        <image
+            href="profile-summary-card-output/transparent/0-profile-details.svg" />
+        <!-- 1 -->
+        <g transform="translate(0,180)">
+            <image
+                href="profile-summary-card-output/transparent/1-repos-per-language.svg" />
+        </g>
+        <!-- 2 -->
+        <g transform="translate(360,180)">
+            <image
+                href="profile-summary-card-output/transparent/2-most-commit-language.svg" />
+        </g>
+        <!-- <g transform="translate(0,360)">
+            <image
+                href="profile-summary-card-output/transparent/3-stats.svg" />
+        </g>
+        <g transform="translate(360,360)">
+            <image
+                href="profile-summary-card-output/transparent/4-productive-time.svg" />
+        </g> -->
+    </g>
+</svg>
