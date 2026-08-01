@@ -110,169 +110,185 @@
           font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
         }
    </style>
-   <rect fill="#00000000" height="99%" rx="5" ry="5" stroke="" stroke-opacity="0" stroke-width="1" width="99.71428571428571%" x="1" y="1">
-   </rect>
-   <text style="font-size: 22px; " x="30" y="40">
-    PYBrulin (Pierre-Yves BRULIN)
-   </text>
-   <g transform="translate(0,40)">
-    <g transform="translate(30,30)">
-     <g fill="" height="14" transform="translate(0,0)" width="14">
-      <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" fill-rule="evenodd">
-      </path>
-     </g>
-     <g fill="" height="14" transform="translate(0,28)" width="14">
-      <path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" fill-rule="evenodd">
-      </path>
-     </g>
-     <g fill="" height="14" transform="translate(0,56)" width="14">
-      <path d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z" fill-rule="evenodd">
-      </path>
-     </g>
-     <g fill="" height="14" transform="translate(0,84)" width="14">
-      <path d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z" fill-rule="evenodd">
-      </path>
-     </g>
-     <text style=" font-size: 14px;" x="21" y="14">
-      12.51k Contributions on GitHub
-     </text>
-     <text style=" font-size: 14px;" x="21" y="42">
-      11 Public Repos
-     </text>
-     <text style=" font-size: 14px;" x="21" y="70">
-      Joined GitHub 7 years ago
-     </text>
-     <text style=" font-size: 14px;" x="21" y="98">
-      France
-     </text>
-    </g>
-    <g color="" transform="translate(295,10)">
-     <path d="M0,108.625C9.620253164556962,79.75,19.240506329113927,50.875,28.860759493670887,50.875C38.801687763713076,50.875,48.74261603375527,63.80000000000001,58.68354430379746,63.80000000000001C68.62447257383965,63.80000000000001,78.56540084388186,34.02912112932606,88.50632911392405,25.025000000000006C98.12658227848101,16.311334390974803,107.74683544303797,9.899999999999997,117.36708860759492,9.899999999999997C127.30801687763712,9.899999999999997,137.2489451476793,11.366666666666664,147.18987341772151,14.3C156.81012658227849,17.13870967741936,166.43037974683546,50.78629032258065,176.05063291139243,53.62500000000001C185.9915611814346,56.55833333333334,195.9324894514768,56.55833333333334,205.873417721519,58.025000000000006C215.81434599156117,59.491666666666674,225.75527426160338,62.425,235.69620253164555,62.425C244.67510548523205,62.425,253.65400843881855,46.75000000000001,262.63291139240505,46.75000000000001C272.57383966244726,46.75000000000001,282.51476793248946,48.49812841530054,292.45569620253167,50.05C302.07594936708864,51.55181121099947,311.69620253164555,55.82500000000001,321.3164556962025,55.82500000000001C331.25738396624473,55.82500000000001,341.19831223628694,38.775000000000006,351.13924050632914,38.775000000000006C360.7594936708861,38.775000000000006,370.37974683544303,74.11250000000001,380,109.45L380,110C370.37974683544303,110,360.7594936708861,110,351.13924050632914,110C341.19831223628694,110,331.25738396624473,110,321.3164556962025,110C311.69620253164555,110,302.07594936708864,110,292.45569620253167,110C282.51476793248946,110,272.57383966244726,110,262.63291139240505,110C253.65400843881855,110,244.67510548523205,110,235.69620253164555,110C225.75527426160338,110,215.81434599156117,110,205.873417721519,110C195.9324894514768,110,185.9915611814346,110,176.05063291139243,110C166.43037974683546,110,156.81012658227849,110,147.18987341772151,110C137.2489451476793,110,127.30801687763712,110,117.36708860759492,110C107.74683544303797,110,98.12658227848101,110,88.50632911392405,110C78.56540084388186,110,68.62447257383965,110,58.68354430379746,110C48.74261603375527,110,38.801687763713076,110,28.860759493670887,110C19.240506329113927,110,9.620253164556962,110,0,110Z" fill="" opacity="1" stroke="" transform="translate(-30,0)">
-     </path>
-     <g color="" fill="none" font-family="sans-serif" font-size="10" text-anchor="middle" transform="translate(-30,110)">
-      <path class="domain"  >
-      </path>
-      <g class="tick" opacity="1" transform="translate(0.5,0)">
-       <line  y2="6">
-       </line>
-       <text dy="0.71em"  y="9">
-        25/06
-       </text>
+   <g class="gpsc-root">
+    <rect fill="#00000000" height="99%" rx="5" ry="5" stroke="" stroke-opacity="0" stroke-width="1" width="99.71428571428571%" x="1" y="1">
+    </rect>
+    <text class="gpsc-item" style="--gpsc-i: 0; font-size: 22px; " x="30" y="40">
+     PYBrulin (Pierre-Yve…)
+    </text>
+    <g transform="translate(0,40)">
+     <g transform="translate(30,30)">
+      <g class="gpsc-item" style="--gpsc-i: 0;">
+       <g fill="" height="14" transform="translate(0,0)" width="14">
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" fill-rule="evenodd">
+        </path>
+       </g>
       </g>
-      <g class="tick" opacity="1" transform="translate(59.18354430379746,0)">
-       <line  y2="6">
-       </line>
-       <text dy="0.71em"  y="9">
-        25/08
-       </text>
+      <g class="gpsc-item" style="--gpsc-i: 1;">
+       <g fill="" height="14" transform="translate(0,28)" width="14">
+        <path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" fill-rule="evenodd">
+        </path>
+       </g>
       </g>
-      <g class="tick" opacity="1" transform="translate(117.86708860759492,0)">
-       <line  y2="6">
-       </line>
-       <text dy="0.71em"  y="9">
-        25/10
-       </text>
+      <g class="gpsc-item" style="--gpsc-i: 2;">
+       <g fill="" height="14" transform="translate(0,56)" width="14">
+        <path d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z" fill-rule="evenodd">
+        </path>
+       </g>
       </g>
-      <g class="tick" opacity="1" transform="translate(176.55063291139243,0)">
-       <line  y2="6">
-       </line>
-       <text dy="0.71em"  y="9">
-        25/12
-       </text>
+      <g class="gpsc-item" style="--gpsc-i: 3;">
+       <g fill="" height="14" transform="translate(0,84)" width="14">
+        <path d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z" fill-rule="evenodd">
+        </path>
+       </g>
       </g>
-      <g class="tick" opacity="1" transform="translate(236.19620253164555,0)">
-       <line  y2="6">
-       </line>
-       <text dy="0.71em"  y="9">
-        26/02
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(292.95569620253167,0)">
-       <line  y2="6">
-       </line>
-       <text dy="0.71em"  y="9">
-        26/04
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(351.63924050632914,0)">
-       <line  y2="6">
-       </line>
-       <text dy="0.71em"  y="9">
-        26/06
-       </text>
-      </g>
-     </g>
-     <g color="" fill="none" font-family="sans-serif" font-size="10" text-anchor="start" transform="translate(350,0)">
-      <path class="domain"  >
-      </path>
-      <g class="tick" opacity="1" transform="translate(0,110.5)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        0
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,96.75)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        50
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,83)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        100
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,69.25)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        150
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,55.5)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        200
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,41.75)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        250
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,28)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        300
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,14.25)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        350
-       </text>
-      </g>
-      <g class="tick" opacity="1" transform="translate(0,0.5)">
-       <line  x2="6">
-       </line>
-       <text dy="0.32em"  x="9">
-        400
-       </text>
-      </g>
-     </g>
-     <g>
-      <text style=" font-size: 10px;" x="230" y="-15">
-       contributions in the last year
+      <text class="gpsc-item" style="--gpsc-i: 0;  font-size: 14px;" x="21" y="14">
+       12.67k Contributions on GitHub
       </text>
+      <text class="gpsc-item" style="--gpsc-i: 1;  font-size: 14px;" x="21" y="42">
+       11 Public Repos
+      </text>
+      <text class="gpsc-item" style="--gpsc-i: 2;  font-size: 14px;" x="21" y="70">
+       Joined GitHub 8 years ago
+      </text>
+      <text class="gpsc-item" style="--gpsc-i: 3;  font-size: 14px;" x="21" y="98">
+       France
+      </text>
+     </g>
+     <g color="" transform="translate(295,10)">
+      <clippath id="gpsc-reveal-clip">
+       <rect class="gpsc-reveal" height="110" style="--gpsc-w: 410px; --gpsc-i: 4;" width="410" x="-30" y="0">
+       </rect>
+      </clippath>
+      <g class="gpsc-chart" clip-path="url(#gpsc-reveal-clip)" style="--gpsc-i: 4;">
+       <path d="M0,97.625C9.915824915824915,86.7625,19.831649831649834,75.9,29.747474747474747,63.80000000000001C39.66329966329966,51.70000000000002,49.57912457912458,34.02912112932606,59.494949494949495,25.025000000000006C69.0909090909091,16.3113343909748,78.68686868686868,9.899999999999997,88.28282828282828,9.899999999999997C98.19865319865319,9.899999999999997,108.11447811447812,11.366666666666664,118.03030303030303,14.3C127.62626262626263,17.138709677419357,137.22222222222223,50.786290322580655,146.8181818181818,53.62500000000001C156.73400673400673,56.55833333333334,166.64983164983164,56.558333333333344,176.56565656565655,58.025000000000006C186.48148148148147,59.491666666666674,196.3973063973064,62.425,206.31313131313132,62.425C215.26936026936028,62.425,224.22558922558923,48.949999999999996,233.1818181818182,48.949999999999996C243.0976430976431,48.949999999999996,253.01346801346804,49.31666666666666,262.92929292929296,50.05C272.52525252525254,50.75967741935484,282.1212121212121,55.82500000000001,291.7171717171717,55.82500000000001C301.6329966329966,55.82500000000001,311.54882154882154,37.949999999999996,321.4646464646464,37.949999999999996C331.060606060606,37.949999999999996,340.65656565656565,53.22338268993478,350.25252525252523,64.9C360.1683501683502,76.96583788706741,370.08417508417506,93.3454189435337,380,109.72500000000001L380,110C370.08417508417506,110,360.1683501683502,110,350.25252525252523,110C340.65656565656565,110,331.060606060606,110,321.4646464646464,110C311.54882154882154,110,301.6329966329966,110,291.7171717171717,110C282.1212121212121,110,272.52525252525254,110,262.92929292929296,110C253.01346801346804,110,243.0976430976431,110,233.1818181818182,110C224.22558922558923,110,215.26936026936028,110,206.31313131313132,110C196.3973063973064,110,186.48148148148147,110,176.56565656565655,110C166.64983164983164,110,156.73400673400673,110,146.8181818181818,110C137.22222222222223,110,127.62626262626263,110,118.03030303030303,110C108.11447811447812,110,98.19865319865319,110,88.28282828282828,110C78.68686868686868,110,69.0909090909091,110,59.494949494949495,110C49.57912457912458,110,39.66329966329966,110,29.747474747474747,110C19.831649831649834,110,9.915824915824915,110,0,110Z" fill="" opacity="1" stroke="" transform="translate(-30,0)">
+       </path>
+      </g>
+      <g color="" fill="none" font-family="sans-serif" font-size="10" text-anchor="middle" transform="translate(-30,110)">
+       <path class="domain"  >
+       </path>
+       <g class="tick" opacity="1" transform="translate(0.5,0)">
+        <line  y2="6">
+        </line>
+        <text dy="0.71em"  y="9">
+         25/07
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(59.994949494949495,0)">
+        <line  y2="6">
+        </line>
+        <text dy="0.71em"  y="9">
+         25/09
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(118.53030303030303,0)">
+        <line  y2="6">
+        </line>
+        <text dy="0.71em"  y="9">
+         25/11
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(177.06565656565655,0)">
+        <line  y2="6">
+        </line>
+        <text dy="0.71em"  y="9">
+         26/01
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(233.6818181818182,0)">
+        <line  y2="6">
+        </line>
+        <text dy="0.71em"  y="9">
+         26/03
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(292.2171717171717,0)">
+        <line  y2="6">
+        </line>
+        <text dy="0.71em"  y="9">
+         26/05
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(350.75252525252523,0)">
+        <line  y2="6">
+        </line>
+        <text dy="0.71em"  y="9">
+         26/07
+        </text>
+       </g>
+      </g>
+      <g color="" fill="none" font-family="sans-serif" font-size="10" text-anchor="start" transform="translate(350,0)">
+       <path class="domain"  >
+       </path>
+       <g class="tick" opacity="1" transform="translate(0,110.5)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         0
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,96.75)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         50
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,83)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         100
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,69.25)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         150
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,55.5)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         200
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,41.75)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         250
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,28)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         300
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,14.25)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         350
+        </text>
+       </g>
+       <g class="tick" opacity="1" transform="translate(0,0.5)">
+        <line  x2="6">
+        </line>
+        <text dy="0.32em"  x="9">
+         400
+        </text>
+       </g>
+      </g>
+      <g>
+       <text style=" font-size: 10px;" x="230" y="-15">
+        contributions in the last year
+       </text>
+      </g>
      </g>
     </g>
    </g>
@@ -285,59 +301,61 @@
           font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
         }
     </style>
-    <rect fill="#00000000" height="99%" rx="5" ry="5" stroke="" stroke-opacity="0" stroke-width="1" width="99.41176470588235%" x="1" y="1">
-    </rect>
-    <text style="font-size: 22px; " x="30" y="40">
-     Top Languages by Repo
-    </text>
-    <g transform="translate(0,40)">
-     <g transform="translate(40,0)">
-      <rect fill="#3572A5" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="18">
-      </rect>
-      <rect fill="#f34b7d" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="43.2">
-      </rect>
-      <rect fill="#3D6117" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="68.4">
-      </rect>
-      <rect fill="#7e7eff" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="93.60000000000002">
-      </rect>
-      <rect fill="#da291c" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="118.80000000000001">
-      </rect>
-      <text style=" font-size: 14px;" x="16.8" y="30">
-       Python
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="55.2">
-       C++
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="80.4">
-       TeX
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="105.60000000000002">
-       Nix
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="130.8">
-       PostScript
-      </text>
-     </g>
-     <g transform="translate( 230, 80 )">
-      <g class="arc">
-       <path d="M3.67394039744206e-15,-60A60,60,0,1,1,-57.53546370582241,17.01970670005781L-33.562353828396404,9.92816224170039A35,35,0,1,0,2.1431318985078682e-15,-35Z" stroke="#00000000" style="fill: #3572A5; stroke-width: 1px;">
-       </path>
+    <g class="gpsc-root">
+     <rect fill="#00000000" height="99%" rx="5" ry="5" stroke="" stroke-opacity="0" stroke-width="1" width="99.41176470588235%" x="1" y="1">
+     </rect>
+     <text class="gpsc-item" style="--gpsc-i: 0; font-size: 22px; " x="30" y="40">
+      Top Languages by Repo
+     </text>
+     <g transform="translate(0,40)">
+      <g transform="translate(40,0)">
+       <rect class="gpsc-item" fill="#3572A5" height="14" stroke="#00000000" style="--gpsc-i: 0; stroke-width: 1px;" width="14" y="18">
+       </rect>
+       <rect class="gpsc-item" fill="#f34b7d" height="14" stroke="#00000000" style="--gpsc-i: 1; stroke-width: 1px;" width="14" y="43.2">
+       </rect>
+       <rect class="gpsc-item" fill="#3D6117" height="14" stroke="#00000000" style="--gpsc-i: 2; stroke-width: 1px;" width="14" y="68.4">
+       </rect>
+       <rect class="gpsc-item" fill="#7e7eff" height="14" stroke="#00000000" style="--gpsc-i: 3; stroke-width: 1px;" width="14" y="93.60000000000002">
+       </rect>
+       <rect class="gpsc-item" fill="#da291c" height="14" stroke="#00000000" style="--gpsc-i: 4; stroke-width: 1px;" width="14" y="118.80000000000001">
+       </rect>
+       <text class="gpsc-item" style="--gpsc-i: 0;  font-size: 14px;" x="16.8" y="30">
+        Python
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 1;  font-size: 14px;" x="16.8" y="55.2">
+        C++
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 2;  font-size: 14px;" x="16.8" y="80.4">
+        TeX
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 3;  font-size: 14px;" x="16.8" y="105.60000000000002">
+        Nix
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 4;  font-size: 14px;" x="16.8" y="130.8">
+        PostScript
+       </text>
       </g>
-      <g class="arc">
-       <path d="M-57.53546370582241,17.01970670005781A60,60,0,0,1,-58.23198810741404,-14.458062147396866L-33.968659729324855,-8.433869585981506A35,35,0,0,0,-33.562353828396404,9.92816224170039Z" stroke="#00000000" style="fill: #f34b7d; stroke-width: 1px;">
-       </path>
-      </g>
-      <g class="arc">
-       <path d="M-58.23198810741404,-14.458062147396866A60,60,0,0,1,-42.89312015784974,-41.954502060258854L-25.02098675874568,-24.473459535151A35,35,0,0,0,-33.968659729324855,-8.433869585981506Z" stroke="#00000000" style="fill: #3D6117; stroke-width: 1px;">
-       </path>
-      </g>
-      <g class="arc">
-       <path d="M-42.89312015784974,-41.954502060258854A60,60,0,0,1,-15.742737038518712,-57.89789487136861L-9.18326327246925,-33.77377200829835A35,35,0,0,0,-25.02098675874568,-24.473459535151Z" stroke="#00000000" style="fill: #7e7eff; stroke-width: 1px;">
-       </path>
-      </g>
-      <g class="arc">
-       <path d="M-15.742737038518712,-57.89789487136861A60,60,0,0,1,4.226888398968133e-14,-60L2.4656848993980778e-14,-35A35,35,0,0,0,-9.18326327246925,-33.77377200829835Z" stroke="#00000000" style="fill: #da291c; stroke-width: 1px;">
-       </path>
+      <g transform="translate( 230, 80 )">
+       <g class="arc" style="--gpsc-i: 0;">
+        <path d="M3.67394039744206e-15,-60A60,60,0,1,1,-57.53546370582241,17.01970670005781L-33.562353828396404,9.92816224170039A35,35,0,1,0,2.1431318985078682e-15,-35Z" stroke="#00000000" style="fill: #3572A5; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 1;">
+        <path d="M-57.53546370582241,17.01970670005781A60,60,0,0,1,-58.23198810741404,-14.458062147396866L-33.968659729324855,-8.433869585981506A35,35,0,0,0,-33.562353828396404,9.92816224170039Z" stroke="#00000000" style="fill: #f34b7d; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 2;">
+        <path d="M-58.23198810741404,-14.458062147396866A60,60,0,0,1,-42.89312015784974,-41.954502060258854L-25.02098675874568,-24.473459535151A35,35,0,0,0,-33.968659729324855,-8.433869585981506Z" stroke="#00000000" style="fill: #3D6117; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 3;">
+        <path d="M-42.89312015784974,-41.954502060258854A60,60,0,0,1,-15.742737038518712,-57.89789487136861L-9.18326327246925,-33.77377200829835A35,35,0,0,0,-25.02098675874568,-24.473459535151Z" stroke="#00000000" style="fill: #7e7eff; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 4;">
+        <path d="M-15.742737038518712,-57.89789487136861A60,60,0,0,1,4.226888398968133e-14,-60L2.4656848993980778e-14,-35A35,35,0,0,0,-9.18326327246925,-33.77377200829835Z" stroke="#00000000" style="fill: #da291c; stroke-width: 1px;">
+        </path>
+       </g>
       </g>
      </g>
     </g>
@@ -351,59 +369,61 @@
           font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
         }
     </style>
-    <rect fill="#00000000" height="99%" rx="5" ry="5" stroke="" stroke-opacity="0" stroke-width="1" width="99.41176470588235%" x="1" y="1">
-    </rect>
-    <text style="font-size: 22px; " x="30" y="40">
-     Top Languages by Commit
-    </text>
-    <g transform="translate(0,40)">
-     <g transform="translate(40,0)">
-      <rect fill="#3572A5" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="18">
-      </rect>
-      <rect fill="#7e7eff" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="43.2">
-      </rect>
-      <rect fill="#178600" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="68.4">
-      </rect>
-      <rect fill="#555555" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="93.60000000000002">
-      </rect>
-      <rect fill="#302B6D" height="14" stroke="#00000000" style="stroke-width: 1px;" width="14" y="118.80000000000001">
-      </rect>
-      <text style=" font-size: 14px;" x="16.8" y="30">
-       Python
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="55.2">
-       Nix
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="80.4">
-       C#
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="105.60000000000002">
-       C
-      </text>
-      <text style=" font-size: 14px;" x="16.8" y="130.8">
-       Puppet
-      </text>
-     </g>
-     <g transform="translate( 230, 80 )">
-      <g class="arc">
-       <path d="M3.67394039744206e-15,-60A60,60,0,0,1,1.1769708158284615,59.98845505344081L0.6865663092332692,34.99326544784047A35,35,0,0,0,2.1431318985078682e-15,-35Z" stroke="#00000000" style="fill: #3572A5; stroke-width: 1px;">
-       </path>
+    <g class="gpsc-root">
+     <rect fill="#00000000" height="99%" rx="5" ry="5" stroke="" stroke-opacity="0" stroke-width="1" width="99.41176470588235%" x="1" y="1">
+     </rect>
+     <text class="gpsc-item" style="--gpsc-i: 0; font-size: 22px; " x="30" y="40">
+      Top Languages by Commit
+     </text>
+     <g transform="translate(0,40)">
+      <g transform="translate(40,0)">
+       <rect class="gpsc-item" fill="#3572A5" height="14" stroke="#00000000" style="--gpsc-i: 0; stroke-width: 1px;" width="14" y="18">
+       </rect>
+       <rect class="gpsc-item" fill="#302B6D" height="14" stroke="#00000000" style="--gpsc-i: 1; stroke-width: 1px;" width="14" y="43.2">
+       </rect>
+       <rect class="gpsc-item" fill="#178600" height="14" stroke="#00000000" style="--gpsc-i: 2; stroke-width: 1px;" width="14" y="68.4">
+       </rect>
+       <rect class="gpsc-item" fill="#41b883" height="14" stroke="#00000000" style="--gpsc-i: 3; stroke-width: 1px;" width="14" y="93.60000000000002">
+       </rect>
+       <rect class="gpsc-item" fill="#7e7eff" height="14" stroke="#00000000" style="--gpsc-i: 4; stroke-width: 1px;" width="14" y="118.80000000000001">
+       </rect>
+       <text class="gpsc-item" style="--gpsc-i: 0;  font-size: 14px;" x="16.8" y="30">
+        Python
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 1;  font-size: 14px;" x="16.8" y="55.2">
+        Puppet
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 2;  font-size: 14px;" x="16.8" y="80.4">
+        C#
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 3;  font-size: 14px;" x="16.8" y="105.60000000000002">
+        Vue
+       </text>
+       <text class="gpsc-item" style="--gpsc-i: 4;  font-size: 14px;" x="16.8" y="130.8">
+        Nix
+       </text>
       </g>
-      <g class="arc">
-       <path d="M1.1769708158284615,59.98845505344081A60,60,0,0,1,-54.24946335118595,25.631927865619712L-31.645520288191808,14.951957921611498A35,35,0,0,0,0.6865663092332692,34.99326544784047Z" stroke="#00000000" style="fill: #7e7eff; stroke-width: 1px;">
-       </path>
-      </g>
-      <g class="arc">
-       <path d="M-54.24946335118595,25.631927865619712A60,60,0,0,1,-56.32704434048902,-20.67036709554487L-32.857442531951925,-12.05771413906784A35,35,0,0,0,-31.645520288191808,14.951957921611498Z" stroke="#00000000" style="fill: #178600; stroke-width: 1px;">
-       </path>
-      </g>
-      <g class="arc">
-       <path d="M-56.32704434048902,-20.67036709554487A60,60,0,0,1,-27.366701514963083,-53.395352308894054L-15.963909217061799,-31.147288846854863A35,35,0,0,0,-32.857442531951925,-12.05771413906784Z" stroke="#00000000" style="fill: #555555; stroke-width: 1px;">
-       </path>
-      </g>
-      <g class="arc">
-       <path d="M-27.366701514963083,-53.395352308894054A60,60,0,0,1,-1.1021821192326178e-14,-60L-6.429395695523604e-15,-35A35,35,0,0,0,-15.963909217061799,-31.147288846854863Z" stroke="#00000000" style="fill: #302B6D; stroke-width: 1px;">
-       </path>
+      <g transform="translate( 230, 80 )">
+       <g class="arc" style="--gpsc-i: 0;">
+        <path d="M3.67394039744206e-15,-60A60,60,0,1,1,-48.72303388087646,35.015224823538766L-28.421769763844598,20.425547813730947A35,35,0,1,0,2.1431318985078682e-15,-35Z" stroke="#00000000" style="fill: #3572A5; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 1;">
+        <path d="M-48.72303388087646,35.015224823538766A60,60,0,0,1,-57.54939322532141,-16.972546638537494L-33.57047938143749,-9.900652205813538A35,35,0,0,0,-28.421769763844598,20.425547813730947Z" stroke="#00000000" style="fill: #302B6D; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 2;">
+        <path d="M-57.54939322532141,-16.972546638537494A60,60,0,0,1,-43.59655981449263,-41.2230514680969L-25.431326558454035,-24.046780023056524A35,35,0,0,0,-33.57047938143749,-9.900652205813538Z" stroke="#00000000" style="fill: #178600; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 3;">
+        <path d="M-43.59655981449263,-41.2230514680969A60,60,0,0,1,-23.239852484016463,-55.31644652832604L-13.556580615676271,-32.26792714152352A35,35,0,0,0,-25.431326558454035,-24.046780023056524Z" stroke="#00000000" style="fill: #41b883; stroke-width: 1px;">
+        </path>
+       </g>
+       <g class="arc" style="--gpsc-i: 4;">
+        <path d="M-23.239852484016463,-55.31644652832604A60,60,0,0,1,-1.1021821192326178e-14,-60L-6.429395695523604e-15,-35A35,35,0,0,0,-13.556580615676271,-32.26792714152352Z" stroke="#00000000" style="fill: #7e7eff; stroke-width: 1px;">
+        </path>
+       </g>
       </g>
      </g>
     </g>
